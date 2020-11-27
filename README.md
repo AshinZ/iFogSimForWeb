@@ -1,6 +1,7 @@
-# y
+# iFogSimForWeb
 
 > web project for ifogsim
+
 
 ## Build Setup
 
@@ -25,3 +26,24 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+
+## zh-cn
+
+该项目为为iFogSim开发的web项目。
+
+
+
+### 技术栈
+
+antd-vue
+
+
+
+### 接口说明
+
+
+
+### 功能说明
+
